@@ -3,8 +3,8 @@ public class BinarySearch {
     private static final String found_color = "\033[0;32m";
 
     public static void main(String[] args) throws InterruptedException {
-         int[] arr = new int[]{23, 9, 4, 89, -21 -423, -12, 24, 234, 94, 3, 6, 2, 1};
-         int target = 4;
+         int[] arr = new int[]{53, 3, 45, 5565, 23, -234, -3, 74, 0, 357, 234, 22, 53, -25};
+         int target = 357;
          System.out.print("Array: ");
          Ryve.printArrln(arr);
          System.out.printf("Target: %d\n", target);
